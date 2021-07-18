@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am currently working in thge field of Data science. I come with an extensive experience of working with different technologies including  Data Science, Machine Learning and computer vision.
+
+In the past, I have worked with Mahindra and Mahindra as an assistant manager and at iNeuron as a Data Science Intern. I have a masters and a PhD. In both my masters and PhD I have experince on handling large of amount of data and getting insights out of those data and turn them into rewarding goals.
+
+Things I'm good at 🔥
+Domain: Machine Learning, Deep Learning, Data Science, Computer vision, Data Visualization etc.
+
+Languages: Python, MatLAB.
+
+Libraries & Tools: AWS S3, Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib.
+
+Data Analysis: Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Quantitative Methods etc.
